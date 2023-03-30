@@ -1,3 +1,5 @@
+package thread;
+
 /**
  * 功能描述
  *
